@@ -1,4 +1,4 @@
-<em>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<b>I have no special talent, I am only passionately curious.</b>
+<em>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<b>I have no special talent, I am only passionately curious.</b>
 
                                           $$\    $$$$$$\   $$$$$$\  $$$$$$$$\ 
                                         $$$$ |  $$ ___$$\ $$ ___$$\ \____$$  |
