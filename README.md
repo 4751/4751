@@ -8,9 +8,9 @@
     <em> Hello! I'm <b>Volted</b>  <img src="https://volted.cc/assets/icons/rose.png" width="17" height="17">, Welcome to my profile.</em>
     <br>
     <br>
-    <a href="https://volted.cc"><em>volted.cc</em></a> - <em>My Personal website which shows all of my social links.</em>
+    <a href="https://volted.cc"><em>volted.cc</em></a> - <em>My personal website which shows all of my social links.</em>
     <br>
-    <a href="mailto:info@volted.cc"><em>info@volted.cc</em></a> - <em>My Personal email, you can contact me here.</em>
+    <a href="mailto:info@volted.cc"><em>info@volted.cc</em></a> - <em>My personal email, you can contact me here.</em>
     <br>
     <a href="https://twitter.com/logout"><em>@logout</em></a> - <em>This aint my personal twitter account. (lmao)</em>
     <br>
